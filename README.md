@@ -1,8 +1,8 @@
-# ✨ AI Text Summarizer
+# AI Text Summarizer
 
 A web application that automatically summarizes long texts or articles into concise, clear, and professional summaries.
 
-## 🤖 AI (Artificial Intelligence) Integration
+## AI (Artificial Intelligence) Integration
 
 This application is powered by the **Google Gemini API**, utilizing the `gemini-1.5-flash` model. This model was chosen for its:
 - **High Speed:** Extremely fast at processing and returning text summaries.
@@ -15,7 +15,7 @@ This application is powered by the **Google Gemini API**, utilizing the `gemini-
 3. The *backend* attaches a specific instruction *prompt* and sends it to the Google Gemini servers.
 4. Gemini processes the text, generates a summary, and returns it to the user's screen.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
