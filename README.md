@@ -17,6 +17,8 @@ This application is powered by the **Google Gemini API**, utilizing the `gemini-
 
 ## Tech Stack
 
+
+
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **AI SDK:** [`@google/generative-ai`](https://www.npmjs.com/package/@google/generative-ai)
